@@ -17,6 +17,10 @@ body {
     
 }
 
+.bannerbutton {
+    color: #ffffff;
+}
+
 .bannertitle {
     color: #F9FAF8;
     font-size: 48px;
@@ -52,6 +56,17 @@ body {
     font-size: 18px;
     font-weight: bold;
     font-style: normal;
+}
+
+.calltoaction {
+    background: #3882F6;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 32px;
+}
+
+.actionbutton {
+    color: #ffffff;
 }
 
 .footer {
